@@ -1,0 +1,29 @@
+.education {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.education h2 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.education ul {
+    list-style: none;
+    padding: 0;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.education li {
+    background-color: #f9f9f9;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.education li strong {
+    color: #007bff;
+}

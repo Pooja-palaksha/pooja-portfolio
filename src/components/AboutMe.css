@@ -1,0 +1,16 @@
+.about-me {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.about-me h2 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.about-me p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto 20px auto;
+}

@@ -1,0 +1,24 @@
+.personal-details {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.personal-details h2 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.personal-details p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+.personal-details a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.personal-details a:hover {
+    text-decoration: underline;
+}
